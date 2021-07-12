@@ -1,0 +1,217 @@
+* {
+     padding: 0;
+     margin: 0;
+}
+
+.a {
+     /* background: #010404ad; */
+     background: gray;
+}
+
+.nav-link {
+     margin: 11px;
+}
+
+
+/* .text-center {
+     margin-top: -370px;
+     font-size: 80px;
+     color: white;
+     font-family: inherit;
+
+} */
+
+.fiddle {
+     padding: 30px 0px 30px 0px;
+     color: black;
+     font-size: 45px;
+}
+
+.banner-content {
+     line-height: 35px;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+}
+
+.aboutimage {
+     width: 75%;
+}
+
+.image {
+     /* background-image: url('https://firstfiddle.in/assets/images/outletbanner.png'); */
+     background-image: url('https://www.firstfiddle.in/assets/images/bannerabout.jpg');
+     padding-bottom: 60px;
+     padding-top: 50px;
+}
+
+.byte {
+     /* padding: 60px 200px 0px 200px; */
+     line-height: 48px;
+}
+
+.image1 {
+     background-image: url('../css/image/11.jpg');
+     padding-bottom: 125px;
+     padding-top: 110px;
+     background-size: cover;
+}
+
+.mainfooter {
+     background: black;
+     padding: 35px 0px 35px 0px;
+}
+
+/* .banner{
+    background-image: url('https://app.firstfiddle.in/images/brand-banner/lotd.jpeg');
+    padding-top: 700px;
+} */
+
+.mobile-logo {
+     display: none;
+}
+
+.mobile-btn {
+     display: none;
+}
+
+.carousel-caption {
+     font-size: 50px;
+     padding-bottom: 300px;
+}
+
+/* .carousel-caption g {
+     font-size: 30px;
+     padding-bottom: 250px;
+} */
+.mark {
+     /* border: 2px solid; */
+     width: 100%;
+     background: #040e65;
+     height: 55px;
+     color: white;
+     line-height: 40px;
+     font-weight: bold;
+
+}
+
+.button {
+     width: 150px;
+     border-radius: 25px;
+     text-align: center;
+     height: 45px;
+     line-height: 43px;
+     border: none;
+}
+
+.card {
+     border: aliceblue;
+
+}
+.embed-responsive{
+     padding: 100px;
+}
+.image1 {
+     background-image: url('../image/11.jpg');
+     padding-bottom: 125px;
+     padding-top: 110px;
+     background-size: cover;
+}
+
+.contact {
+     padding-top: 85px;
+     padding-bottom: 50px;
+
+}
+
+.contact p {
+     padding-top: 25px;
+
+
+}
+
+.bg-img {
+
+     padding-top: 150px;
+     background-image: url('../image/slide01.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+   
+     /* position: fixed; */
+
+}
+
+.bg-img1 {
+
+     padding-top: 200px;
+     background-image: url('../image/slide02.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+
+     /* position: fixed; */
+
+}
+
+.image2 {
+     background-image: url('../image/slide01.jpg');
+     padding-bottom: 45px;
+     padding-top: 110px;
+     background-size: cover;
+}
+
+
+
+.form1 {
+     padding: 0px 120px 0 120px;
+}
+
+.bg-img2 {
+
+     padding-top: 150px;
+     background-image: url('../image/slide01.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+
+     /* position: fixed; */
+
+}
+@media(max-width: 800px) {
+     .web-logo {
+          width: 200px;
+
+     }
+
+     .carousel-caption {
+          font-size: 23px;
+          padding-bottom: 0px;
+     }
+     .form1{
+          display: contents;
+
+     }
+     /* .carousel-item{
+         height: auto;
+         width: 100%;
+     } */
+
+     /* .web-logo {
+          display: none;
+     }
+
+     .a {
+          background: #fbaa1a;
+     }
+
+     .mobile-btn {
+          display: block;
+     }
+
+     .web-btn {
+          display: none;
+     } */
+}
